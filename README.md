@@ -8,11 +8,10 @@ I edited it a little so that most of the components of PCB are placed on one sid
 You can find my project on [EasyEDA](https://easyeda.com/mmodestas/mm_zigbee_stick_v3-1_copy).<p>
 
 ## Case
-I designed 3D printed case. Printing with PET-G. Sanding and painting with black matte paint is used for post-processing.
-[1551USB3CLR](https://www.hammfg.com/part/1551USB3CLR) case could also be used. However, I did not try it yet.
+I designed a custom 3D printed case. Printing with PET-G. Sanding and painting with black matte paint is used for post-processing.
+<br>[1551USB3CLR](https://www.hammfg.com/part/1551USB3CLR) case could also be used. However, I did not try it yet.
 
 ## Firmware
-Zstack 3.0.x <p>
-[Coordinator](https://github.com/jethome-ru/zigbee-firmware/tree/master/ti/coordinator/cc2538_cc2592) <p>
-[Router](https://github.com/jethome-ru/zigbee-firmware/tree/master/ti/router/cc2538_cc2592) <p>
-
+Tested and confirmed working with this firmware: <p>
+ - [Coordinator](https://github.com/jethome-ru/zigbee-firmware/tree/master/ti/coordinator/cc2538_cc2592) <br>
+ - [Router](https://github.com/jethome-ru/zigbee-firmware/tree/master/ti/router/cc2538_cc2592) <br>
